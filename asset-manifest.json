@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-image-randomizer/static/css/main.78e073ae.chunk.css",
+    "main.js": "/react-image-randomizer/static/js/main.d305122d.chunk.js",
+    "main.js.map": "/react-image-randomizer/static/js/main.d305122d.chunk.js.map",
+    "runtime~main.js": "/react-image-randomizer/static/js/runtime~main.e7506116.js",
+    "runtime~main.js.map": "/react-image-randomizer/static/js/runtime~main.e7506116.js.map",
+    "static/js/2.827c098e.chunk.js": "/react-image-randomizer/static/js/2.827c098e.chunk.js",
+    "static/js/2.827c098e.chunk.js.map": "/react-image-randomizer/static/js/2.827c098e.chunk.js.map",
+    "index.html": "/react-image-randomizer/index.html",
+    "precache-manifest.20f2f806e88b78c7ffcc20f212cf2044.js": "/react-image-randomizer/precache-manifest.20f2f806e88b78c7ffcc20f212cf2044.js",
+    "service-worker.js": "/react-image-randomizer/service-worker.js",
+    "static/css/main.78e073ae.chunk.css.map": "/react-image-randomizer/static/css/main.78e073ae.chunk.css.map"
+  }
+}
